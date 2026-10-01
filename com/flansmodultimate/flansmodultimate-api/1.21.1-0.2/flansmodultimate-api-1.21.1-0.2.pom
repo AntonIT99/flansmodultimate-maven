@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.flansmodultimate</groupId>
+  <artifactId>flansmodultimate-api</artifactId>
+  <version>1.21.1-0.2</version>
+  <name>Flan's Mod Ultimate API</name>
+  <description>Public API of Flan's Mod Ultimate for other mods. Compile against it; the mod itself provides it at runtime.</description>
+  <url>https://github.com/AntonIT99/Flans-Mod-Ultimate-2.0/wiki/API</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://github.com/AntonIT99/Flans-Mod-Ultimate-2.0/blob/master/LICENSE-API</url>
+    </license>
+  </licenses>
+</project>
